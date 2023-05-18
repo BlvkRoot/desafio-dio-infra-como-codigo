@@ -1,5 +1,5 @@
 # desafio-dio-infra-como-codigo
-Desafio da DIO bootcamp AWS: script de Criação de Estrutura de Usuários, Diretórios e Permissões
+Desafio da DIO bootcamp AWS: script de Criação de Estrutura de Usuários, Diretórios e Permissões no Linux
 
 ## Feito
 1 - Criação de Diretórios
